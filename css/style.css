@@ -30,3 +30,17 @@ header .subtitle {
 #writer {
   color: #20A9E5;
 }
+
+main .gallery {
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+
+.credits {
+  font-size: 12px;
+  margin-top: 0px;
+}
+
+.important {
+  background-color: yellow;
+}
