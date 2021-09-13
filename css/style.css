@@ -44,3 +44,21 @@ main .gallery {
 .important {
   background-color: yellow;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #20A9E5;
+  color: white;
+  text-align: left;
+}
+
+tbody .blue {
+  background-color: #B1E5F2;
+}
+
+table .long-text {
+  width: 50%;
+}
