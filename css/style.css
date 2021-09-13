@@ -62,3 +62,24 @@ tbody .blue {
 table .long-text {
   width: 50%;
 }
+
+footer h3 {
+  color: gray;
+}
+
+footer div {
+  color: white;
+  width: 230px;
+  height: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+#monitor {
+  background-image: url(../img/monitor.jpg);
+}
+
+#graph {
+  background-image: url(../img/graph.jpg);
+}
